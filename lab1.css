@@ -1,0 +1,23 @@
+body {
+    background: #fff;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 0.3s linear 0s;
+}
+
+
+#slider {
+    margin-top: 100px;
+    transition: all 0.5s linear 0s;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-position:center;
+    background: rgba(0, green, blue, alpha)
+}
+
+button {
+    margin-top: 10px;
+}
